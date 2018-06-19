@@ -1,1 +1,1 @@
-# [Garrett Wayne](gwayne9955.github.io)
+# [Garrett Wayne](https://gwayne9955.github.io)
