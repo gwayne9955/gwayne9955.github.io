@@ -1,2 +1,1 @@
-# gwayne9955.github.io
-Garrett Wayne
+# [Garrett Wayne](gwayne9955.github.io)
