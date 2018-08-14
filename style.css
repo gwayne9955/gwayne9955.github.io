@@ -33,13 +33,13 @@ div.container {
 h1 {
   color: #fff;
   font-family: 'Copperplate Gothic Light', 'Playfair Display', serif;
-  font-size: 52px;
+  font-size: 85px;
   font-weight: 300;
-  line-height: 46px;
+  line-height: 80px;
   margin: 0 0 6px 0;
   text-align: center;
   text-shadow: 0px 1px 2px rgba(34,62,66,.75);
-  width: 50%;
+  width: 75%;
 }
 
 h2 {
@@ -70,11 +70,13 @@ a.btn:hover {
 div.nav {
 	text-align: center;
 	padding: 10px 0 10px;
+	height: 100%;
+	width: 50%;
 }
 
 div.col {
 	float: left;
 	padding: 5px 10px;
 	color: #fff;
-	width: 27%;
+	width: 29%;
 }
